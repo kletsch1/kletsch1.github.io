@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+   font-family: 'Fjalla One', sans-serif;
+  font-size: 5em;
+  color: #fff5ed;
+  text-decoration: none;
+  display: block;
+}
+
+
+a {     opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+
+a:hover {
+      opacity: 0.6;
+      }
+
+
+body{
+  background-image: ;
+  background-repeat:no-repeat;
+  background-size: 100% auto;
+  background-position: center center;
+}
+
+header{
+    font-family: arial;
+    position: relative;
+    width: 300px;
+    line-height:48px;
+    color: black;
+}
+
+h1 {
+    color: black;
+}
+
+h2, h3, h4 {
+    font-size: 22px;
+    color: black;
+}
+
+p {
+    font-family: arial;
+    font-size: 16px;
+    line-height: 22px;
+}
+img {
+    border: 10px solid #cccccc;
+    margin: 20px;
+    padding: 50px;
+    width: 100%:
+    display: inline; 
+}
+
+
+    
