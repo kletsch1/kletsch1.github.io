@@ -12,9 +12,9 @@ body{
 
 header{
     font-family: 'Tangerine', cursive;
-    font-size: 40px;
-    font-color: #FFCCFF;
+    font-size: 70px;
     position: relative;
+    color: #FFCCFF;
     line-height:50px;
     margin: 10px;
 }
@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 section {
-    font-family: Arial;
+    font-family: 'PT Serif', serif;
     font-size: 18px;
     
 }
@@ -42,28 +42,40 @@ section {
         margin:50px auto;
         width: 90%;
          }
+
 #content-section{
     background-color: white;
     box-shadow: 4px 4px 4px rgba(50, 50, 50, 0.75);
-  margin-top:-18px;
+  margin-top: 10px;
   width:700px;
-
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px
+    padding-bottom: 5px;
 }
+
 #content-section h1{
 
-    text-align: center;
+    text-align: left;
 }
 
-h1, h2, h3, h4 {
+h1 {
+    font-family: 'Tangerine', sans-serif;
+    font-size: 50px;
+    
+}
+
+h2, h3, h4 {
     text-align: left;
-    font-size: 73px;
+    font-size: 20px;
     color: black;
 }
 
 p {s
-    font-family: arial;
+    font-family: 'PT Serif', serif;
     font-size: 16px;
     line-height: 22px;
+    color: black;
 }
 img {
     border: 10px solid #cccccc;
