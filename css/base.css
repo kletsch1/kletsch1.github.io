@@ -6,13 +6,13 @@
 
 body{
   background-image: url(https://scontent-b-iad.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1395379_10151803069949072_195228374_n.jpg?oh=89653789ddb60f0031a83514bbc21179&oe=551CCBC6);
-  background-size: 100% auto;
-  background-position: center;
+  background-size: 100%;
+    background-position: top;
 }
 
 header{
     font-family: 'Tangerine', cursive;
-    font-size: 70px;
+    font-size: 80px;
     position: relative;
     color: #FFCCFF;
     line-height:50px;
