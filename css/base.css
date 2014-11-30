@@ -60,6 +60,12 @@ section {
     text-align: left;
 }
 
+#content-section a{
+    color: black;
+    text-decoration: underline;
+}
+    
+
 h1 {
     font-family: 'Tangerine', sans-serif;
     font-size: 50px;
@@ -85,7 +91,7 @@ img {
     width: auto;
     height: 350px;
     display: inline; 
-    float: inherit;
+    float: center;
 }
 
 figcaption { 
@@ -97,6 +103,10 @@ figcaption {
 
 aside {
     float: right;
+}
+
+figcaption {
+    text-align: center; 
 }
 
 footer {
