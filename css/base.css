@@ -89,7 +89,7 @@ img {
     margin: 10px;
     padding: 5px;
     width: auto;
-    height: 350px;
+    height: 300px;
     display: inline; 
     float: center;
 }
@@ -97,7 +97,7 @@ img {
 figcaption { 
     font-family: 'PT Serif', serif;
     color: #000000;
-    font-size: 16px;
+    font-size: 15px;
     display: block;
 }
 
@@ -107,6 +107,10 @@ aside {
 
 figcaption {
     text-align: center; 
+}
+
+.TextWrapLeft {
+    float: left;
 }
 
 footer {
